@@ -1,0 +1,8 @@
+c:\users\jhibbs\documents\visual studio 2010\Projects\jRunner\jRunner\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\jhibbs\documents\visual studio 2010\Projects\jRunner\jRunner\bin\Debug\jRunner.exe
+c:\users\jhibbs\documents\visual studio 2010\Projects\jRunner\jRunner\bin\Debug\jRunner.pdb
+c:\users\jhibbs\documents\visual studio 2010\Projects\jRunner\jRunner\bin\Debug\Server.exe
+c:\users\jhibbs\documents\visual studio 2010\Projects\jRunner\jRunner\bin\Debug\MySql.Data.dll
+c:\users\jhibbs\documents\visual studio 2010\Projects\jRunner\jRunner\bin\Debug\Server.pdb
+c:\users\jhibbs\documents\visual studio 2010\Projects\jRunner\jRunner\obj\x86\Debug\jRunner.exe
+c:\users\jhibbs\documents\visual studio 2010\Projects\jRunner\jRunner\obj\x86\Debug\jRunner.pdb
